@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name = 'Topsis-Jashan-102017034',         # How you named your package folder (MyLib)
-  packages = ['Topsis-Jashan-102017034'],   # Chose the same as "name"
+  name = 'Topsis_Jashan_102017034',         # How you named your package folder (MyLib)
+  packages = ['Topsis_Jashan_102017034'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'This python package helps to implement a multiple criteria decision analysis process called TOPSIS',   # Give a short description about your library
