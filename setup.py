@@ -1,9 +1,4 @@
-from setuptools import setup
-
-def readme():
-    with open('README.md') as file:
-        README = file.read()
-    return README
+from distutils.core import setup
 
 setup(
   name = 'Topsis-Jashan-102017034',         # How you named your package folder (MyLib)
