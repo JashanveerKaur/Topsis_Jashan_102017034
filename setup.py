@@ -8,8 +8,8 @@ setup(
   description = 'This python package helps to implement a multiple criteria decision analysis process called TOPSIS',   # Give a short description about your library
   author = 'Jashanveer Kaur Dhillon',                   # Type in your name
   author_email = 'jdhillon1_be20@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/JashanveerKaur/Topsis-Jashan-102017034',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/JashanveerKaur/Topsis_Jashan_102017034',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/JashanveerKaur/Topsis_Jashan_102017034/archive/refs/tags/0.1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'MCDM', '102017034'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
